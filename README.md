@@ -1,5 +1,3 @@
-这是一份为你量身定制的 README.md。它不仅涵盖了项目的核心逻辑，还采用了专业的 GitHub 风格，旨在向评审展示这是一个高吞吐量、生产级的 AI 项目。
-
 Project Re-Genesis: 多 Agent 协同的代码考古与演进引擎
 🚀 项目概述
 Project Re-Genesis 是一款针对大型遗留系统（Legacy Systems）的自动化重构平台。它利用 LLM 的长链推理能力，解决企业在 SDK 升级、框架迁移及技术债清理中的核心痛点。
